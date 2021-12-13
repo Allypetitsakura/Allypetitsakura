@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<img width="726" alt="Schermata 2021-12-13 alle 16 01 48" src="https://user-images.githubusercontent.com/91071931/145837680-fd7ee0c7-112f-4272-a3d5-4b0108f38349.png">
+
 
 <!--
 **Allypetitsakura/Allypetitsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
