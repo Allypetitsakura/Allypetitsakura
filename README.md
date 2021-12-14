@@ -28,7 +28,7 @@ MATCH-A-DOGGO (First ever APP on Rails)
 ### Where I am at:
 - 👩🏻‍🎓 I'm a Le Wagon Alumni https://www.lewagon.com/milan
 - 👩🏻‍💻 I'm currently improving... my coding skills
-- 🌱 I’m currently learning... JS
+- 🌱 I’m currently learning... React.js
 - ⚡ Fun fact: I love Japan! I love Anime and Manga BUT I don't like sushi!
 
 
